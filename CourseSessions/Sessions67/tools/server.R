@@ -1,5 +1,5 @@
 
-local_directory <- "~/INSEADjan2014/CourseSessions/Sessions67"
+local_directory <- "~/Desktop/MBA/P3/BigData/INSEADAnalytics/CourseSessions/Sessions67"
 source(paste(local_directory,"R/library.R",sep="/"))
 source(paste(local_directory,"R/heatmapOutput.R",sep="/"))
 
